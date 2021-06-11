@@ -1,7 +1,7 @@
 ### Hi there :wave: I'm Qian Sun
 * :cn: I live in Beijing, China.
 * :man_technologist: I'm working in Alibaba Cloud.
-* 👨‍🎓: I have earned my master's degree in [Institute of Computing Technology, CAS](http://www.ict.ac.cn/).
+* 👨‍🎓 I have earned my master's degree in [Institute of Computing Technology, CAS](http://www.ict.ac.cn/).
 * :pencil2: I write articles on my blog [@Qian Sun](https://dcoliversun.github.io).
 * :email: You can shoot me an email at <sunqian1000@yeah.net>
 
