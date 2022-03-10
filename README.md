@@ -10,5 +10,9 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=DCOLIVERSUN&show_icons=true&include_all_commits=true&custom_title=Github%20Stats&count_private=true&line_height=20&include_all_commits=true&bg_color=00000000&text_color=777) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DCOLIVERSUN&layout=compact&card_width=296&hide=other,html,scss,css,yaml,xml,toml,markdown,cmake,makefile,jupyter%20notebook,c&bg_color=00000000&text_color=777)](https://github.com/upagge/github-readme-stats)
 
+<!-- <a href="http://www.github.com/dcoliversun"><img src="https://github-readme-stats.vercel.app/api?username=dcoliversun&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=777&icon_color=3382ed&bg_color=00000000&hide_border=false&show_icons=true" alt="Qian's GitHub stats" /></a><a href="http://www.github.com/dcoliversun"><img src="https://github-readme-streak-stats.herokuapp.com/?user=dcoliversun&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="http://www.github.com/dcoliversun"><img src="https://activity-graph.herokuapp.com/graph?username=dcoliversun&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a> -->
+
 ## :call_me_hand: Connect with me
 [![qian.sun2020@gmail.com](https://img.shields.io/badge/qian.sun2020@gmail.com%20-%23168DE2.svg?&style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:qian.sun2020@gmail.com) 
