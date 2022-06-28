@@ -2,7 +2,7 @@
 * :cn: I live in Beijing, China.
 * :man_technologist: I'm working in Alibaba Cloud.
 * 👨‍🎓 I have received my master's degree in [Institute of Computing Technology, CAS](http://www.ict.ac.cn/).
-* :pencil2: I write articles on my blog [@Qian Sun](https://dcoliversun.github.io).
+* :pencil2: I write articles on my blog [@Qian Sun](https://www.yuque.com/qian.sun).
 * :email: You can shoot me an email at <qian.sun2020@gmail.com>
 
 ## :hammer_and_wrench: My fancy badge area
