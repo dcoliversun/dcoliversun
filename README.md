@@ -13,15 +13,15 @@
 <diV>
 
   <div align="center">
-    <a href="#"><img alt="Qian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcoliversun&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="150"/></a>
-    <a href="#"><img alt="Qian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcoliversun&langs_count=10&layout=compact&hide=other,html,scss,css,yaml,xml,toml,markdown,cmake,makefile,jupyter%20notebook,c&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="150"/></a>
+    <a href="#"><img alt="Qian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dcoliversun&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170"/></a>
+    <a href="#"><img alt="Qian's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dcoliversun&langs_count=10&layout=compact&hide=other,html,scss,css,yaml,xml,toml,markdown,cmake,makefile,jupyter%20notebook,c&theme=react&hide_border=true&bg_color=0D1117&title_color=5ce1e6&icon_color=5ce1e6" height="170"/></a>
     <br/>
     <i><b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</i>
   </div>
 
 
   <div>
-    <a href="#"><img alt="Qian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dcoliversun&custom_title=Qian%20Sun's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" /></a>
+    <a href="#"><img alt="Qian's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=dcoliversun&custom_title=Qian%20Sun's%20Contribution%20Graph&bg_color=0D1117&color=5ce1e6&line=FFFFFF&point=5ce1e6&hide_border=true" height="350" /></a>
   <div> 
 </div>
 
